@@ -13,5 +13,9 @@ int main()
         {
             cout<<"NO";
         }
+        else
+        {
+            cout<<"NO";
+        }
     }
 }
